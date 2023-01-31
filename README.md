@@ -19,9 +19,6 @@ pip install string
 ```bash
 python -m nltk.downloader stopwords
 ```
-```bash
-nltk.download('punkt')
-```
 
 
 After above necessities are satisfied, Run the installer
